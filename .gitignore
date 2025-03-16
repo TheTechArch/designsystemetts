@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/designsystemetts/.vs/designsystemetts
+/src/designsystemetts/designsystemetts/obj/Debug
